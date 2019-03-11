@@ -1,6 +1,6 @@
 ﻿// Filename: propitem_controls.lang
-// DateTime: 2014/07/07 22:14:51
-// User: Keith Dwyer
+// DateTime: 2019/03/10 22:00:00
+// User: JCorrea
 {
 	"#str_propitem_001_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
 	"#str_propitem_002_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"

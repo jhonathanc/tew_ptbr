@@ -1,6 +1,6 @@
 ﻿// Filename: ui_design.lang
-// DateTime: 2014/07/22 19:46:41
-// User: Keith Dwyer
+// DateTime: 2019/03/10 22:00:00
+// User: JCorrea
 {
 	"#str_ui_credits_game_title" "THE EVIL WITHIN"
 	"#str_ui_key_help_msb" "<ui_accept>SELECT <ui_cancel>BACK"

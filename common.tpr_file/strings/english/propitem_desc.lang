@@ -1,6 +1,6 @@
 ﻿// Filename: propitem_desc.lang
-// DateTime: 2014/07/29 16:39:16
-// User: Keith Dwyer
+// DateTime: 2019/03/10 22:00:00
+// User: JCorrea
 {
 	"#str_propitem_001_desc_00" "This is an old-fashioned police service revolver. Most police agencies have switched over to automatic pistols but a few officers continue to use revolvers."
 	"#str_propitem_002_desc_00" "This burst-capable automatic pistol has a high rate of fire and can do a lot of damage to enemies.\n^1*Skill points applied to Handgun apply to this weapon as well."

@@ -1,6 +1,6 @@
 ﻿// Filename: survival_tips.lang
-// DateTime: 2014/07/11 14:50:12
-// User: Keith Dwyer
+// DateTime: 2019/03/10 22:00:00
+// User: JCorrea
 {
 	"#str_restart_tips_001" "Several enemies can be burned with a single match if they are close together."
 	"#str_restart_tips_002" "If you run out of stamina, press <_use> repeatedly to recover more quickly."

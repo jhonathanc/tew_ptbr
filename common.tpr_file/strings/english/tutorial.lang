@@ -1,6 +1,6 @@
 ﻿// Filename: tutorial.lang
-// DateTime: 2014/07/29 11:43:18
-// User: tl hayashi (林 祐一郎)
+// DateTime: 2019/03/10 22:00:00
+// User: JCorrea
 {
 	"#str_action_take" "<_use>TAKE"
 	"#str_action_burn" "<_cancel>BURN"

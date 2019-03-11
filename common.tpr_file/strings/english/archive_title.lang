@@ -1,6 +1,6 @@
 ﻿// Filename: archive_title.lang
-// DateTime: 2014/07/18 16:41:02
-// User: Keith Dwyer
+// DateTime: 2019/03/10 22:00:00
+// User: JCorrea
 {
 	"#str_archive_file_001_title" "Old note from sewer"
 	"#str_archive_file_002_title" "Newer note from sewer"
