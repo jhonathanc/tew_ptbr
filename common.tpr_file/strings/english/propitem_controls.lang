@@ -1,0 +1,20 @@
+﻿// Filename: propitem_controls.lang
+// DateTime: 2014/07/07 22:14:51
+// User: Keith Dwyer
+{
+	"#str_propitem_001_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_002_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_003_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_004_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_use>ZOOM\n<_reload>RELOAD"
+	"#str_propitem_005_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_006_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_007_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_008_controls" "<_knife>MELEE ATTACK"
+	"#str_propitem_009_controls" "<_zoom>AIM\n<_attack1>SHOOT\n (Hold longer to adjust projectile distance)\n<_reload>RELOAD / AMMO CHANGE"
+	"#str_propitem_013_controls" "<_zoom>AIM\n<_attack1>THROW"
+	"#str_propitem_014_controls" "<_use>USE"
+	"#str_propitem_015_controls" "<_use>USE"
+	"#str_propitem_020_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_reload>RELOAD"
+	"#str_propitem_021_controls" "<_zoom>AIM\n<_attack1>SHOOT\n<_use>ZOOM\n<_reload>RELOAD"
+	"#str_propitem_022_controls" "<_knife>MELEE ATTACK"
+}
