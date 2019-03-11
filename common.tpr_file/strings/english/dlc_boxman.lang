@@ -2,8 +2,8 @@
 //
 
 {
-	"#str_dlc_boxman_00" "test message"
-	"#str_dlc_boxman_01" "<JOY_TRIGGER2>throw trap"
-	"#str_dlc_boxman_02" "<JOY_TRIGGER2>take trap"
-	"#str_dlc_boxman_03" "<JOY_TRIGGER1>warp"
+	"#str_dlc_boxman_00" "mensagem de teste"
+	"#str_dlc_boxman_01" "<JOY_TRIGGER2>colocar a armadilha"
+	"#str_dlc_boxman_02" "<JOY_TRIGGER2>pegar a armadilha"
+	"#str_dlc_boxman_03" "<JOY_TRIGGER1>torcer"
 }
